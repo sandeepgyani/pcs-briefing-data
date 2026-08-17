@@ -1,0 +1,231 @@
+{
+  "generatedAt": "2026-08-17",
+  "companies": [
+    {
+      "id": "evalueserve",
+      "name": "Evalueserve",
+      "sector": "Research, Analytics & AI Services",
+      "employeeBand": "~4,500–6,000 employees",
+      "accentColor": 4287583943,
+      "leaders": [
+        {"name": "Pallab Deb", "role": "CEO (appointed 2026, ex-Google Cloud)", "linkedin": "https://www.linkedin.com/in/pallabdeb"},
+        {"name": "Marc Vollenweider", "role": "Co-founder, Chief Strategy Officer & Board"},
+        {"name": "CTO", "role": "Not publicly named — worth asking directly"}
+      ],
+      "business": "A global \"knowledge process\" company — big corporations (banks, pharma firms, law firms) pay them to do research, data analysis and reporting that would otherwise need a large in-house team. Their pitch, \"Mind+Machine,\" blends 5,000+ human subject-matter experts with AI tools, so clients get analyst-quality work at software speed. That mix of skilled people + AI is what sets them apart from plain offshore outsourcing shops.",
+      "risks": [
+        "Sits on extremely sensitive client data — unpublished financial models, M&A research, drug pipeline data — a leak hurts their Fortune-1000 clients too.",
+        "A brand-new CEO plus leadership handover is exactly the moment where access rights and departing-staff accounts need cleaning up.",
+        "Research analysts are highly mobile talent, regularly hired away by rival research/KPO firms and the Big 4 — each exit is a potential data walkout."
+      ],
+      "money": "Private company — profit isn't published. Third-party estimates put revenue around $1.2 billion company-wide, with staff growing from roughly 4,500 to over 6,000 in recent years.",
+      "ai": "AI is the whole business model, not a side project. Hiring a CEO straight from Google Cloud's AI/data partnerships team signals an even harder push on AI adoption, internally and for clients."
+    },
+    {
+      "id": "sirion",
+      "name": "SirionLabs",
+      "sector": "Contract Management Software (SaaS)",
+      "employeeBand": "~1,200 employees",
+      "accentColor": 4285148832,
+      "leaders": [
+        {"name": "Ajay Agrawal", "role": "Co-founder & CEO", "note": "Direct LinkedIn not confirmed — search \"Ajay Agrawal SirionLabs\"."},
+        {"name": "Aditya Gupta, Claude Marais, Kanti Prabha", "role": "Co-founders"},
+        {"name": "CTO", "role": "Not clearly identified publicly"}
+      ],
+      "business": "Sells software that helps very large companies manage their contracts — not just storing them, but using AI to read every contract, flag risky clauses, and track obligations. Named a Gartner \"Leader\" in this category four years running; their AI is trained on more than 32 million real contracts, a meaningful edge over simple e-signature or document-storage tools.",
+      "risks": [
+        "The entire product runs on other companies' most confidential commercial contracts (pricing, IP terms, M&A deals) — a very attractive theft target.",
+        "Acquired by private equity firm Haveli Investments in January 2026 — ownership changes often bring restructuring and staff turnover, a classic window for data walking out the door.",
+        "As a software vendor plugged into many enterprise systems, a breach here could ripple into all of their customers (\"supply-chain\" risk)."
+      ],
+      "money": "Private company. Reported revenue grew from about $54 million (2023) to about $85 million (2024) — roughly 57% growth. Valued near $1 billion before the 2026 acquisition.",
+      "ai": "AI isn't an add-on — their product is built on generative AI plus proprietary models. Responsible AI/data handling is core to their credibility with enterprise customers."
+    },
+    {
+      "id": "krbl",
+      "name": "KRBL Limited",
+      "sector": "Basmati Rice Milling, Branding & Export",
+      "employeeBand": "Employee count not disclosed to us",
+      "accentColor": 4288407819,
+      "leaders": [
+        {"name": "Anil Kumar Mittal", "role": "Founder Chairman & Managing Director", "note": "No confirmed direct LinkedIn found."},
+        {"name": "Anoop Kumar Gupta, Arun Kumar Gupta", "role": "Joint Managing Directors"},
+        {"name": "CTO", "role": "Not applicable in the traditional sense — likely a Head of IT"}
+      ],
+      "business": "The company behind \"India Gate\" basmati rice — the world's largest basmati rice miller and exporter. What sets them apart is controlling the whole chain: sourcing paddy from farmers, milling, branding, and exporting worldwide, rather than just trading rice. Full control over quality is their brand promise.",
+      "risks": [
+        "Sourcing data, farmer/quality records and export pricing are commercially sensitive — costly if lost to a competitor.",
+        "Rice mills increasingly run on connected industrial equipment — a newer, often under-protected attack surface.",
+        "They've already bought Data Leak Prevention for web traffic, showing awareness — but it doesn't yet cover email or endpoints."
+      ],
+      "money": "Listed company — figures are public. Revenue: ₹5,341 cr (FY23) → ₹5,365 cr (FY24) → ₹5,594 cr (FY25), slow steady growth. But profit has been falling: ₹701 cr (FY23) → ₹596 cr (FY24) → ₹476 cr (FY25) — real margin pressure.",
+      "ai": "The wider agri/FMCG sector is starting to use AI for demand forecasting and computer-vision rice quality grading — useful, but not yet a headline transformation for KRBL specifically."
+    },
+    {
+      "id": "nykaa",
+      "name": "Nykaa (FSN E-Commerce Ventures)",
+      "sector": "Beauty & Fashion E-commerce",
+      "employeeBand": "~6,000 employees",
+      "accentColor": 4290093867,
+      "leaders": [
+        {"name": "Falguni Nayar", "role": "Founder, Executive Chairperson, MD & CEO", "linkedin": "https://in.linkedin.com/in/falguni-nayar-2331055b"},
+        {"name": "CTO", "role": "No formally titled \"CTO\" found publicly — worth confirming"}
+      ],
+      "business": "India's leading beauty and personal-care e-commerce platform, plus fashion (Nykaa Fashion) and its own manufactured beauty brands. Unlike a plain marketplace, Nykaa differentiates on curated, trusted product selection, strong physical stores, and content/influencer-driven shopping — plus owning some of the brands it sells, improving margins.",
+      "risks": [
+        "This isn't hypothetical: customers publicly complained (2021–2024) about scam calls referencing exact order details, and a 2024 leak at a third-party marketing vendor (\"Gamooga\") exposed Nykaa customer data along with other major Indian brands.",
+        "Shows their vendor/partner ecosystem is a real weak point, not just their own systems.",
+        "Millions of customers' personal and payment details make them a constant fraud/phishing target."
+      ],
+      "money": "Listed company — figures are public and strong. Revenue: ₹7,058 cr (FY23) → ₹9,055 cr (FY24) → ₹11,775 cr (FY25), growing ~24%/year. Profit improved faster than revenue — up roughly 81% year-on-year in FY25.",
+      "ai": "Investing in AI for personalised shopping recommendations, virtual try-on features, and demand/inventory forecasting — standard for a modern e-commerce leader."
+    },
+    {
+      "id": "motherdairy",
+      "name": "Mother Dairy",
+      "sector": "Dairy, Edible Oil & Produce (NDDB-linked)",
+      "employeeBand": "~3,000 employees",
+      "accentColor": 4285343806,
+      "leaders": [
+        {"name": "Leadership in transition", "role": "MD Manish Bandlish stepped down 30 Nov 2025; Deputy MD overseeing operations. Some reports cite Jayatheertha Chary as successor — confirm before referencing externally."},
+        {"name": "CTO", "role": "Not publicly named — likely a Head of IT/Digital role"}
+      ],
+      "business": "The trusted Delhi-NCR household name for milk, plus the \"Dhara\" edible-oil brand and \"Safal\" fruit & vegetables. Operates as a subsidiary linked to the National Dairy Development Board (NDDB), blending a farmer-welfare, cooperative-style mission with private-company operations — that government-linked trust factor is a big part of its brand strength.",
+      "risks": [
+        "A very recent, high-level leadership exit (the MD) is exactly the moment old access rights and accounts need reviewing and closing off properly.",
+        "Cold-chain and processing plants increasingly rely on connected equipment — an under-protected area for most FMCG/dairy players.",
+        "A large distributor and vendor network means sensitive supply and pricing data regularly travels outside their own walls."
+      ],
+      "money": "Private (NDDB-linked) — profit isn't disclosed, but turnover is: ₹15,037 cr (FY24) → ₹17,500 cr (FY25) → a targeted ₹20,300 cr in FY26 (~17% growth) — a genuinely strong growth run.",
+      "ai": "The dairy/FMCG sector broadly is starting to use AI for demand forecasting, dynamic pricing and predicting spoilage/wastage — relevant, but not yet a headline story specifically for Mother Dairy."
+    },
+    {
+      "id": "axtria",
+      "name": "Axtria",
+      "sector": "AI & Data Analytics for Life Sciences/Pharma",
+      "employeeBand": "~3,000–4,800 employees",
+      "accentColor": 4287495320,
+      "leaders": [
+        {"name": "Jaswinder \"Jassi\" Chadha", "role": "Founder & CEO", "linkedin": "https://www.linkedin.com/in/jchadha/"},
+        {"name": "Navdeep \"Navi\" Chadha", "role": "Founder & CTO", "linkedin": "https://www.linkedin.com/in/navdeep-chadha-847434/"}
+      ],
+      "business": "Builds cloud software and AI/data platforms specifically for pharmaceutical and life-sciences companies — helping them plan sales territories, forecast drug demand, and run commercial operations more effectively. Being laser-focused on life sciences (rather than generic analytics for anyone) is exactly what sets them apart.",
+      "risks": [
+        "Handles commercially sensitive pharma sales data and patient-adjacent data for clients across 75+ countries — a high regulatory bar.",
+        "Their own CEO is publicly pushing the industry toward \"agentic AI\" (AI that takes action, not just gives answers) — raising the stakes on getting underlying data governance right first."
+      ],
+      "money": "Private company — exact profit not published. Estimated revenue around $105 million ARR, with a valuation reportedly above $1 billion. Staff grew from ~4,718 (2024) to ~4,826 (2025).",
+      "ai": "AI is their whole strategy right now. In June 2026 they hosted \"Axtria Ignite 2026,\" gathering 450+ life sciences executives around \"Industrializing Intelligence: The Agentic Enterprise.\" CEO Jassi Chadha's own message: \"fix the foundation before you scale AI\" — don't rush AI agents without solid data quality and governance first."
+    },
+    {
+      "id": "sam",
+      "name": "Shardul Amarchand Mangaldas & Co",
+      "sector": "Full-Service Law Firm",
+      "employeeBand": "~1,400 employees",
+      "accentColor": 4285690992,
+      "leaders": [
+        {"name": "Shardul S. Shroff", "role": "Executive Chairman"},
+        {"name": "Pallavi Shroff & Akshay Chudasama", "role": "Managing Partners", "note": "No confirmed direct LinkedIn found. No conventional CTO role."}
+      ],
+      "business": "One of India's largest full-service law firms (169 partners, 834 lawyers), handling major corporate deals, mergers and disputes for large companies. Formed from the 2015 split of the old Amarchand Mangaldas firm. Scale and a top-tier corporate/M&A practice set it apart.",
+      "risks": [
+        "Very well documented: partners regularly move between SAM and rival firm Khaitan & Co (and others) — most recently a senior partner and two colleagues left SAM for Khaitan in 2026. Every move risks client files, deal knowledge and contacts leaving with the person.",
+        "Law firms sit on market-moving information (undisclosed M&A deals) — a high-value target for cybercriminals and even insider trading schemes."
+      ],
+      "money": "Private partnership — Indian law firms don't publish financial results, so no reliable figures are available publicly.",
+      "ai": "Legal AI tools are cutting research time 30–50% industry-wide, but adoption is early — only ~20–27% of Indian law firms use sophisticated AI tools today, and most CEOs say they don't yet trust AI without strong governance. As a market leader, SAM is very likely evaluating these tools."
+    },
+    {
+      "id": "khaitan",
+      "name": "Khaitan & Co",
+      "sector": "Full-Service Law Firm",
+      "employeeBand": "~1,800 employees",
+      "accentColor": 4283586142,
+      "leaders": [
+        {"name": "Haigreve Khaitan", "role": "Managing/Senior Partner, National Executive Committee", "note": "No confirmed direct LinkedIn found. No formal CTO role identified."}
+      ],
+      "business": "Often ranked India's largest full-service law firm, founded in 1911 — one of the oldest continuously operating firms in the country. Covers corporate law, tax, IP and disputes, and has historically grown aggressively by hiring senior lawyers away from rival firms.",
+      "risks": [
+        "The same lateral-hiring dynamic as SAM applies in reverse too — partners and their client relationships move in and out of Khaitan regularly, each move a potential data walkout.",
+        "Just opened a new Hyderabad office (2026) with four new leaders — new offices mean new local IT setups and endpoints to secure from day one."
+      ],
+      "money": "Private partnership — no publicly available revenue or profit figures.",
+      "ai": "Same industry-wide shift as SAM — legal AI adoption accelerating for research and drafting, with governance and client-confidentiality still catching up."
+    },
+    {
+      "id": "iex",
+      "name": "Indian Energy Exchange (IEX)",
+      "sector": "Electricity Trading Exchange",
+      "employeeBand": "~300 employees",
+      "accentColor": 4291681552,
+      "leaders": [
+        {"name": "Satyanarayan (S.N.) Goel", "role": "Chairman, MD & CEO", "note": "No confirmed direct LinkedIn found."},
+        {"name": "Sangh Suman Gautam", "role": "CTO"}
+      ],
+      "business": "Runs India's largest online marketplace for buying and selling electricity — generators and big buyers (utilities, industries) trade electricity, green energy and carbon certificates in real time. Being the first mover with roughly 85%+ of India's power-trading volume makes them the dominant player — essentially critical national infrastructure.",
+      "risks": [
+        "As literal national trading infrastructure, IEX is a textbook target for state-level or highly sophisticated attackers — a disruption here could ripple into India's actual power supply/demand matching.",
+        "Government scrutiny of critical infrastructure cybersecurity (CERT-In, NCIIPC) is intensifying — a company regulators expect to be a role model on security.",
+        "Only ~300 staff run this national platform — a lean team almost certainly leans heavily on external vendors for security."
+      ],
+      "money": "Listed company — figures are public. Revenue: ₹474 cr (FY23) → ₹449 cr (FY24, a dip) → ₹657 cr (FY25, back to strong growth). Profit: ₹305 cr (FY23) → ₹351 cr (FY24) → ₹429 cr (FY25) — healthy and growing.",
+      "ai": "Power exchanges increasingly use AI/ML for demand and price forecasting — because it feeds a live financial trading market, model accuracy and integrity really matter."
+    },
+    {
+      "id": "sterlite",
+      "name": "Sterlite Power",
+      "sector": "Power Transmission Infrastructure",
+      "employeeBand": "~1,200 employees",
+      "accentColor": 4279986532,
+      "leaders": [
+        {"name": "Pratik Agarwal", "role": "Managing Director & CEO (since 2016)", "note": "No confirmed direct LinkedIn found."},
+        {"name": "CTO", "role": "Not publicly named"}
+      ],
+      "business": "Builds high-voltage electricity transmission lines and infrastructure in India and Brazil, often transferring finished projects into infrastructure investment trusts (like IndiGrid) for long-term ownership. Effectively pioneered the model of private companies building India's power transmission network — a role that used to sit only with government bodies.",
+      "risks": [
+        "Power transmission runs on industrial control systems (substations, grid control software) — often less protected than regular office IT.",
+        "Operates across two countries (India and Brazil), meaning data crosses borders and multiple regulatory regimes.",
+        "Recent reports point to leadership changes ahead of a planned IPO — organisational change is typically a higher-risk window for security."
+      ],
+      "money": "Privately held (unlisted) — one estimate puts FY24 revenue around ₹7,516 crore, but as an unlisted company this isn't officially audited/public the way listed-company numbers are — treat as approximate.",
+      "ai": "The power/grid sector is starting to use AI to predict equipment failures before they happen and for weather-based load forecasting — growing, but not yet headline news for Sterlite Power specifically."
+    },
+    {
+      "id": "rsystems",
+      "name": "R Systems International",
+      "sector": "IT Services & Product Engineering",
+      "employeeBand": "~3,500 employees",
+      "accentColor": 4281611414,
+      "leaders": [
+        {"name": "Nitesh Bansal", "role": "MD & CEO (since 2023, ex-Infosys)", "linkedin": "https://www.linkedin.com/in/niteshbansal1/"},
+        {"name": "Srikara Rao", "role": "CTO — Cloud & Cybersecurity Services (hired 2024)"}
+      ],
+      "business": "Majority-owned by Blackstone, R Systems builds software products and platforms for global clients in telecom, healthcare and banking, and runs business-process services. Unlike a typical staffing/outsourcing company, they focus on actually engineering products — and notably, are building out their own cybersecurity services line, worth knowing when we talk to them.",
+      "risks": [
+        "As an IT services company, they hold source code, infrastructure access and data for many client companies — a breach could cascade into their whole client base (\"supply-chain\" risk).",
+        "Engineers' laptops and dev environments are a high-value target since that's where client IP actually lives day to day."
+      ],
+      "money": "Listed company. Recent full-year figures show revenue around ₹2,230 crore and profit around ₹193 crore, with Q4 profit alone up 40% year-on-year — a strong, improving trend.",
+      "ai": "AI is central to their current pitch — their latest annual report is literally titled \"Where AI Meets Human Experience,\" reflecting a deliberate repositioning around AI-augmented engineering and delivery."
+    },
+    {
+      "id": "sa",
+      "name": "S&A Law Offices",
+      "sector": "Full-Service Law Firm (mid-size)",
+      "employeeBand": "~300 employees",
+      "accentColor": 4285148449,
+      "leaders": [
+        {"name": "Manoj Singh", "role": "Founder (est. 2002 as Singh & Associates)"},
+        {"name": "Daizy Chawla & Gunita Pahwa", "role": "Joint Managing Partners", "note": "No confirmed direct LinkedIn found. No CTO role — typical for a firm this size."}
+      ],
+      "business": "A mid-size, full-service Indian law firm with offices in Delhi, Gurgaon, Mumbai and Bengaluru (300+ legal professionals), with a strong heritage in intellectual property (IP/patent) work alongside general corporate and dispute practice. Being nimbler and more specialised than the mega-firms is their differentiator.",
+      "risks": [
+        "They handle clients' IP filings and patent data — commercially very sensitive competitive intelligence for those clients if it ever leaked.",
+        "As a mid-size firm, likely a smaller dedicated security budget/team than the mega-firms, so each client matter may carry relatively higher exposure.",
+        "India's new DPDP Act (finalised November 2025) applies to them too — even smaller firms are now formal \"data fiduciaries\" with legal security obligations."
+      ],
+      "money": "Private partnership — no publicly available revenue or profit figures.",
+      "ai": "Same broader legal-AI wave affecting all Indian law firms — smaller firms often adopt cheap, easy-to-access AI tools quickly, sometimes with less formal oversight, which is worth flagging."
+    }
+  ]
+}
