@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17",
+  "generatedAt": "2026-09-01",
   "companies": [
     {
       "id": "evalueserve",
@@ -10,16 +10,16 @@
       "leaders": [
         {"name": "Pallab Deb", "role": "CEO (appointed 2026, ex-Google Cloud)", "linkedin": "https://www.linkedin.com/in/pallabdeb"},
         {"name": "Marc Vollenweider", "role": "Co-founder, Chief Strategy Officer & Board"},
-        {"name": "CTO", "role": "Not publicly named — worth asking directly"}
+        {"name": "Nitin Narkhede", "role": "Chief Technology Officer (appointed July 2026, ex-Wipro Lab45)"}
       ],
       "business": "A global \"knowledge process\" company — big corporations (banks, pharma firms, law firms) pay them to do research, data analysis and reporting that would otherwise need a large in-house team. Their pitch, \"Mind+Machine,\" blends 5,000+ human subject-matter experts with AI tools, so clients get analyst-quality work at software speed. That mix of skilled people + AI is what sets them apart from plain offshore outsourcing shops.",
       "risks": [
         "Sits on extremely sensitive client data — unpublished financial models, M&A research, drug pipeline data — a leak hurts their Fortune-1000 clients too.",
-        "A brand-new CEO plus leadership handover is exactly the moment where access rights and departing-staff accounts need cleaning up.",
+        "A brand-new CEO plus a newly appointed CTO (July 2026) means a broader leadership handover than usual — exactly the moment where access rights and departing-staff accounts need cleaning up.",
         "Research analysts are highly mobile talent, regularly hired away by rival research/KPO firms and the Big 4 — each exit is a potential data walkout."
       ],
       "money": "Private company — profit isn't published. Third-party estimates put revenue around $1.2 billion company-wide, with staff growing from roughly 4,500 to over 6,000 in recent years.",
-      "ai": "AI is the whole business model, not a side project. Hiring a CEO straight from Google Cloud's AI/data partnerships team signals an even harder push on AI adoption, internally and for clients."
+      "ai": "AI is the whole business model, not a side project. The CEO joined from Google Cloud's AI/data partnerships team, and the new CTO (July 2026) previously ran Wipro's AI innovation lab (Lab45) — both hires point to an even harder push on AI adoption, internally and for clients."
     },
     {
       "id": "sirion",
@@ -58,7 +58,7 @@
         "Rice mills increasingly run on connected industrial equipment — a newer, often under-protected attack surface.",
         "They've already bought Data Leak Prevention for web traffic, showing awareness — but it doesn't yet cover email or endpoints."
       ],
-      "money": "Listed company — figures are public. Revenue: ₹5,341 cr (FY23) → ₹5,365 cr (FY24) → ₹5,594 cr (FY25), slow steady growth. But profit has been falling: ₹701 cr (FY23) → ₹596 cr (FY24) → ₹476 cr (FY25) — real margin pressure.",
+      "money": "Listed company — figures are public. Revenue: ₹5,341 cr (FY23) → ₹5,365 cr (FY24) → ₹5,594 cr (FY25), slow steady growth. But profit has been falling: ₹701 cr (FY23) → ₹596 cr (FY24) → ₹476 cr (FY25) — real margin pressure. Their most recent quarter (Q1 FY27, reported August 2026) showed a sharp rebound: consolidated net profit jumped 73% year-on-year to ₹261 cr, even as revenue dipped 6% (fewer rice exports, offset by strong domestic sales) — margins expanded significantly.",
       "ai": "The wider agri/FMCG sector is starting to use AI for demand forecasting and computer-vision rice quality grading — useful, but not yet a headline transformation for KRBL specifically."
     },
     {
@@ -77,7 +77,7 @@
         "Shows their vendor/partner ecosystem is a real weak point, not just their own systems.",
         "Millions of customers' personal and payment details make them a constant fraud/phishing target."
       ],
-      "money": "Listed company — figures are public and strong. Revenue: ₹7,058 cr (FY23) → ₹9,055 cr (FY24) → ₹11,775 cr (FY25), growing ~24%/year. Profit improved faster than revenue — up roughly 81% year-on-year in FY25.",
+      "money": "Listed company — figures are public and strong. Revenue: ₹7,058 cr (FY23) → ₹9,055 cr (FY24) → ₹11,775 cr (FY25), growing ~24%/year. Profit improved faster than revenue — up roughly 81% year-on-year in FY25. Momentum has continued: Q1 FY27 (quarter to June 2026, reported August 2026) revenue grew 29% year-on-year to ₹2,782 cr and net profit more than tripled to ₹80 cr, with the Nykaa Fashion business turning close-to-profitable for the first time.",
       "ai": "Investing in AI for personalised shopping recommendations, virtual try-on features, and demand/inventory forecasting — standard for a modern e-commerce leader."
     },
     {
@@ -115,7 +115,7 @@
         "Their own CEO is publicly pushing the industry toward \"agentic AI\" (AI that takes action, not just gives answers) — raising the stakes on getting underlying data governance right first."
       ],
       "money": "Private company — exact profit not published. Estimated revenue around $105 million ARR, with a valuation reportedly above $1 billion. Staff grew from ~4,718 (2024) to ~4,826 (2025).",
-      "ai": "AI is their whole strategy right now. In June 2026 they hosted \"Axtria Ignite 2026,\" gathering 450+ life sciences executives around \"Industrializing Intelligence: The Agentic Enterprise.\" CEO Jassi Chadha's own message: \"fix the foundation before you scale AI\" — don't rush AI agents without solid data quality and governance first."
+      "ai": "AI is their whole strategy right now. In June 2026 they hosted \"Axtria Ignite 2026,\" gathering 450+ life sciences executives around \"Industrializing Intelligence: The Agentic Enterprise.\" CEO Jassi Chadha's own message: \"fix the foundation before you scale AI\" — don't rush AI agents without solid data quality and governance first. In August 2026 they announced plans to grow their specialist \"Forward Deployed Engineering\" team — engineers who pair pharma expertise with AI engineering — to 1,000 people by the end of 2026, underlining how central hands-on AI deployment has become to their business."
     },
     {
       "id": "sam",
@@ -168,7 +168,7 @@
         "Government scrutiny of critical infrastructure cybersecurity (CERT-In, NCIIPC) is intensifying — a company regulators expect to be a role model on security.",
         "Only ~300 staff run this national platform — a lean team almost certainly leans heavily on external vendors for security."
       ],
-      "money": "Listed company — figures are public. Revenue: ₹474 cr (FY23) → ₹449 cr (FY24, a dip) → ₹657 cr (FY25, back to strong growth). Profit: ₹305 cr (FY23) → ₹351 cr (FY24) → ₹429 cr (FY25) — healthy and growing.",
+      "money": "Listed company — figures are public. Revenue: ₹474 cr (FY23) → ₹449 cr (FY24, a dip) → ₹657 cr (FY25, back to strong growth). Profit: ₹305 cr (FY23) → ₹351 cr (FY24) → ₹429 cr (FY25) — healthy and growing. Growth continued into FY27: Q1 FY27 (quarter to June 2026) revenue was up 11% year-on-year to ₹158 cr and profit up 12% to ₹134 cr, driven by record electricity-trading volumes during a hot summer.",
       "ai": "Power exchanges increasingly use AI/ML for demand and price forecasting — because it feeds a live financial trading market, model accuracy and integrity really matter."
     },
     {
@@ -181,11 +181,11 @@
         {"name": "Pratik Agarwal", "role": "Managing Director & CEO (since 2016)", "note": "No confirmed direct LinkedIn found."},
         {"name": "CTO", "role": "Not publicly named"}
       ],
-      "business": "Builds high-voltage electricity transmission lines and infrastructure in India and Brazil, often transferring finished projects into infrastructure investment trusts (like IndiGrid) for long-term ownership. Effectively pioneered the model of private companies building India's power transmission network — a role that used to sit only with government bodies.",
+      "business": "Builds high-voltage electricity transmission lines and infrastructure in India and Brazil, often transferring finished projects into infrastructure investment trusts (like IndiGrid) for long-term ownership. Effectively pioneered the model of private companies building India's power transmission network — a role that used to sit only with government bodies. In a 2025–26 corporate restructuring, the group renamed its transmission-and-manufacturing business \"Sterlite Electric Limited\" and moved its build-operate-transfer infrastructure projects into a separate entity (Sterlite Grid 5) — worth knowing when confirming exactly which legal entity we're dealing with.",
       "risks": [
         "Power transmission runs on industrial control systems (substations, grid control software) — often less protected than regular office IT.",
         "Operates across two countries (India and Brazil), meaning data crosses borders and multiple regulatory regimes.",
-        "Recent reports point to leadership changes ahead of a planned IPO — organisational change is typically a higher-risk window for security."
+        "The renamed Sterlite Electric Limited filed IPO paperwork with SEBI in September 2025, but in 2026 said it was withdrawing that filing due to market volatility — this kind of restructuring and on-again/off-again IPO planning is typically a higher-risk window for security, with new entities, new IT setups and reshuffled access rights."
       ],
       "money": "Privately held (unlisted) — one estimate puts FY24 revenue around ₹7,516 crore, but as an unlisted company this isn't officially audited/public the way listed-company numbers are — treat as approximate.",
       "ai": "The power/grid sector is starting to use AI to predict equipment failures before they happen and for weather-based load forecasting — growing, but not yet headline news for Sterlite Power specifically."
@@ -205,7 +205,7 @@
         "As an IT services company, they hold source code, infrastructure access and data for many client companies — a breach could cascade into their whole client base (\"supply-chain\" risk).",
         "Engineers' laptops and dev environments are a high-value target since that's where client IP actually lives day to day."
       ],
-      "money": "Listed company. Recent full-year figures show revenue around ₹2,230 crore and profit around ₹193 crore, with Q4 profit alone up 40% year-on-year — a strong, improving trend.",
+      "money": "Listed company. Recent full-year figures show revenue around ₹2,230 crore and profit around ₹193 crore, with Q4 profit alone up 40% year-on-year — a strong, improving trend. That momentum has accelerated further: Q2 2026 revenue crossed ₹600 crore for the first time (up 30% year-on-year), and profit for the first half of 2026 was up over 50% year-on-year.",
       "ai": "AI is central to their current pitch — their latest annual report is literally titled \"Where AI Meets Human Experience,\" reflecting a deliberate repositioning around AI-augmented engineering and delivery."
     },
     {
